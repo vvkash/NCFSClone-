@@ -1,7 +1,7 @@
 {
   "name": "video-processing-service",
   "version": "1.0.0",
-  "description": "",
+  "description": "b",
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
@@ -9,7 +9,7 @@
     "serve": "node dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aakash",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
@@ -21,5 +21,9 @@
     "@types/node": "^20.12.12",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NCFSClone-"
   }
 }
